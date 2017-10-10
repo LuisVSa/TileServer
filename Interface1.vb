@@ -1,4 +1,4 @@
-﻿Public Interface Interface1
+Public Interface IServer
 
     ReadOnly Property ImageType() As String
     ReadOnly Property ServerName() As String
