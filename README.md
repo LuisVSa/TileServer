@@ -8,8 +8,10 @@ There will be a full repository of the SBuilderX but I pretend to publish repos 
 
 TileServer (this one)
 
-Tiles (an application that illustrates the use of the interface and of the plugins)
+VirtualEarth (Plugin to download image tiles from Virtual Eart Servers)
 
-So, what is this interface and what it is needed for? This interface just creates the file TileServer.dll which will reside side by side with the executable main command (TileDownload.exe in this illustration series). For more information, please see this article in my forum:
+TileDownload (an application that illustrates the use of the interface and of the plugins)
+
+So, what is this interface and what it is needed for? This interface just creates the file TileServer.dll which is needed to compile Plugins and by the executable main command (TileDownload.exe in this illustration series). For more information, please see this article in my forum:
 
 http://www.ptsim.com/forum/viewtopic.php?f=22&t=1053
